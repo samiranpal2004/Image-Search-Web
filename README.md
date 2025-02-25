@@ -30,7 +30,7 @@ Check out the live demo: - https://image-search-engine-bysam.netlify.app/
 
 Clone the repository:
 
-git clone https://github.com/samiranpal2004/image-search-web-engine.git
+git clone [https://github.com/samiranpal2004/image-search-web-engine.git](https://github.com/samiranpal2004/Image-Search-Web.git)
 
 Navigate to the project directory:
 
